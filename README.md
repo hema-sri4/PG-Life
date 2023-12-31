@@ -36,28 +36,7 @@ Designed a multi-page website for finding paying guests in various cities, using
  - These are the testimonials describes how users commented on this paying Guest.<br><br>
 ![image](https://github.com/hema-sri4/PG-Life/assets/85050196/c34b67d6-9df1-4cbe-9553-136558acd2da)
 
-Thankyou for visiting 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
+## Thankyou
 
 
 
